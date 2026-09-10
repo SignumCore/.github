@@ -1,15 +1,20 @@
 # SignumCore
 
-**Adverteren in Google en meten wat het oplevert.**
+**Adverteren in Google uitbesteden — en zien wat het oplevert.**
 
-SignumCore draait je advertenties in Google, meet de aanvragen die eruit komen en stuurt bij. Eén cijfer per maand: wat een aanvraag je kost. Voor ondernemers en MKB (vaste prijs, maandelijks opzegbaar, wachtlijst open) en voor marketingbureaus (tracking per klant gezet, bewaakt en gerepareerd: GTM, GA4, Consent Mode v2, server-side tagging, white-label Looker Studio).
+SignumCore is voor de directeur van een Nederlands bedrijf dat adverteert. Hij betaalt, anderen beslissen, en niemand zegt hem wat een aanvraag kost.
 
-- Website: [signumcore.io](https://signumcore.io)
+Wij draaien je advertenties in Google, meten je aanvragen en sturen bij. Elke maand zie je één bedrag in plaats van een dashboard vol grafieken: wat een aanvraag je kost. Het werkt op de website die je al hebt; websites bouwen doen wij niet. Je advertentiebudget gaat rechtstreeks naar Google, en wij rekenen geen percentage daarover.
+
+Je houdt de sleutel. Niets verandert zonder jouw akkoord, alles is terug te draaien, en er is een noodstop.
+
+**Eerlijk over waar we staan:** SignumCore is nieuw. We hebben nog geen klanten en dus geen klantverhalen, en je vindt hier nul verzonnen reviews of keurmerken.
+
+- Beginnen: [een sessie van een uur, live, maximaal vijf deelnemers](https://signumcore.io/webinar)
 - Gratis site-scan (zonder account): [signumcore.io/scan](https://signumcore.io/scan)
-- Voor marketingbureaus: [signumcore.io/voor-bureaus](https://signumcore.io/voor-bureaus)
 - Eigen onderzoek, 589 gemeten .nl-sites: [Staat van Tracking in NL 2026](https://signumcore.io/staat-van-tracking-2026)
-- Docs: [signumcore.io/docs](https://signumcore.io/docs) · Blog: [signumcore.io/blog](https://signumcore.io/blog)
+- Blog: [signumcore.io/blog](https://signumcore.io/blog) · Begrippenlijst: [signumcore.io/glossary](https://signumcore.io/glossary)
 - Huisstijl en logo's: [SignumCore/brand](https://github.com/SignumCore/brand)
 - Contact: info@signumcore.io · Oprichter: [Mink Helwig](https://www.linkedin.com/in/boeliebamba/)
 
-Nederlands product · alle data in de EU · KVK 93077149
+Nederlands product · data in de EU · KVK 93077149
