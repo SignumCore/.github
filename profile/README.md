@@ -2,7 +2,7 @@
 
 **Adverteren in Google en meten wat het oplevert.**
 
-SignumCore draait je advertenties in Google, meet elke aanvraag en stuurt bij. Eén cijfer per maand: wat een aanvraag je kost. Voor ondernemers en MKB (vaste prijs, maandelijks opzegbaar) en voor marketingbureaus (tracking per klant gezet, bewaakt en gerepareerd: GTM, GA4, Consent Mode v2, server-side tagging, white-label Looker Studio).
+SignumCore draait je advertenties in Google, meet de aanvragen die eruit komen en stuurt bij. Eén cijfer per maand: wat een aanvraag je kost. Voor ondernemers en MKB (vaste prijs, maandelijks opzegbaar, wachtlijst open) en voor marketingbureaus (tracking per klant gezet, bewaakt en gerepareerd: GTM, GA4, Consent Mode v2, server-side tagging, white-label Looker Studio).
 
 - Website: [signumcore.io](https://signumcore.io)
 - Gratis site-scan (zonder account): [signumcore.io/scan](https://signumcore.io/scan)
